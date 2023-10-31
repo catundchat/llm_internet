@@ -1,2 +1,4 @@
 # llm_internet
-Expanding llm's capacities to Internet
+Expanding large language model's capacities to Internet
+
+给大语言模型联网
