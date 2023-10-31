@@ -16,5 +16,10 @@ Expanding large language model's capacities to Internet
 4. **反馈与优化**：在模型提供回答后，用户的反馈（如满意度、进一步的问题等）可以用于优化模型的性能。这种反馈循环有助于模型更好地理解用户需求和提高回答质量。
 
 总的来说，大型语言模型联网的原理是通过连接到互联网，获取和处理外部数据，然后结合用户的查询生成回答。这种方式使得模型不仅依赖于其内部知识库，还能利用最新的、动态的外部信息，从而提供更全面和更新的回答。
+
+## 部署
+
+
+
 ## 参考文献
 - [Give OpenAI models internet access using LangChain](https://medium.com/@rubentak/give-openai-models-with-internet-access-using-langchain-7d5849f33e03)
