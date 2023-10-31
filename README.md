@@ -21,11 +21,17 @@ Expanding large language model's capacities to Internet
 
 - 首先，我们要实现基于用户的查询而返回网络搜索结果。`search_bing.py`和`search_baidu.py`分别实现了必应搜索和百度搜索。其中bing搜索的接口要在[Azure官网](portal.azure.com)上开通。
 - 其次，为了接入大模型，需要有OpenAI或者其他大模型的接口，在`llm_internet.py`中使用的是Azure OpenAI的GPT-3.5-TURBO接口，点击[这里](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu&culture=en-us&country=us)申请。我们通过搜索返回前n个页面信息，将页面信息，用户查询以及prompt作为大模型的输入即可
-- 效果如下：
+- 效果如下：提问时间2023年10月27号
+1.query:美国枪击案
+![美国枪击案](img/gpt3.5turbo_net1.PNG)
 
-![]()
+2.query:周杰伦上海演唱会
+![周杰伦上海演唱会](img/gpt3.5turbo_net2.PNG)
 
+3.query:神17出征
+![神17出征](img/gpt3.5turbo_net3.PNG)
 
 
 ## 参考文献
 - [Give OpenAI models internet access using LangChain](https://medium.com/@rubentak/give-openai-models-with-internet-access-using-langchain-7d5849f33e03)
+- []()
