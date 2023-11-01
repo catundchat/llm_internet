@@ -36,3 +36,4 @@ Expanding large language model's capacities to Internet
 ## 参考文献
 - [Give OpenAI models internet access using LangChain](https://medium.com/@rubentak/give-openai-models-with-internet-access-using-langchain-7d5849f33e03)
 - [chopinchenx/Bubble](https://github.com/chopinchenx/Bubble)
+- [LangChain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
