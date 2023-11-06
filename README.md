@@ -36,10 +36,11 @@ Expanding large language model's capacities to Internet
 ![神17出征](img/gpt3.5turbo_net3.PNG)
 
 ## 流式服务
-
+https://learn.microsoft.com/zh-cn/azure/ai-services/openai/reference#chat-completions
 
 
 ## 参考文献
 - [Give OpenAI models internet access using LangChain](https://medium.com/@rubentak/give-openai-models-with-internet-access-using-langchain-7d5849f33e03)
 - [chopinchenx/Bubble](https://github.com/chopinchenx/Bubble)
 - [LangChain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
+- [REST API](https://learn.microsoft.com/zh-cn/azure/ai-services/openai/reference#chat-completions)
