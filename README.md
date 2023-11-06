@@ -35,6 +35,9 @@ Expanding large language model's capacities to Internet
 3.Query:神17出征
 ![神17出征](img/gpt3.5turbo_net3.PNG)
 
+## 流式服务
+
+
 
 ## 参考文献
 - [Give OpenAI models internet access using LangChain](https://medium.com/@rubentak/give-openai-models-with-internet-access-using-langchain-7d5849f33e03)
