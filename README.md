@@ -1,7 +1,7 @@
 # llm_internet
-Expanding large language model's capacities to Internet
+Expanding large language model's capacities to Internet and some other APIs
 
-大语言模型增加联网能力
+大语言模型增加联网能力及各种插件API
 
 ## 原理
 
@@ -37,6 +37,10 @@ Expanding large language model's capacities to Internet
 
 ## 流式服务
 https://learn.microsoft.com/zh-cn/azure/ai-services/openai/reference#chat-completions
+
+## APIs
+
+
 
 
 ## 参考文献
