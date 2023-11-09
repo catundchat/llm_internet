@@ -1,7 +1,7 @@
 # llm_internet
 Expanding large language model's capacities to Internet
 
-**大语言模型增加联网能力**
+大语言模型增加联网能力
 
 ## 原理
 
