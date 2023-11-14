@@ -1,4 +1,4 @@
-# llm_internet
+# LLM_Internet
 Expanding large language model's capacities to Internet and some other APIs
 
 大语言模型增加联网能力及各种插件API
